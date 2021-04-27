@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    background-color: #F2F2F2;
+    font-family: 'Open Sans',serif;
+    overflow-x: hidden;
+}
+
+.App {
+    display: grid;
+}
